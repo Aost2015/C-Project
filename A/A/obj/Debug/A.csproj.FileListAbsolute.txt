@@ -1,0 +1,7 @@
+C:\Users\abdul\Desktop\Project1_C#\A\A\obj\Debug\A.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\Project1_C#\A\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Project1_C#\A\A\bin\Debug\A.exe.config
+C:\Users\abdul\Desktop\Project1_C#\A\A\bin\Debug\A.exe
+C:\Users\abdul\Desktop\Project1_C#\A\A\bin\Debug\A.pdb
+C:\Users\abdul\Desktop\Project1_C#\A\A\obj\Debug\A.exe
+C:\Users\abdul\Desktop\Project1_C#\A\A\obj\Debug\A.pdb
